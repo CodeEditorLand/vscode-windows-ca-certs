@@ -40,10 +40,10 @@
   },
   "homepage": "https://github.com/microsoft/vscode-windows-ca-certs",
   "dependencies": {
-    "node-addon-api": "3.0.2"
+    "node-addon-api": "8.0.0"
   },
   "devDependencies": {
     "bindings": "1.5.0",
-    "node-forge": "1.3.0"
+    "node-forge": "1.3.1"
   }
 }
