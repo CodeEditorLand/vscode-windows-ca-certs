@@ -9,7 +9,7 @@
 		}
 	],
 	"dependencies": {
-		"node-addon-api": "8.2.0"
+		"node-addon-api": "8.2.1"
 	},
 	"description": "Get Windows System Root certificates",
 	"devDependencies": {
